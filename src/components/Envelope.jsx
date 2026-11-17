@@ -531,7 +531,7 @@ export default function Envelope({ stage, onOpenEnvelope }) {
                             '0 2px 4px rgba(0,0,0,0.75), 0 0 10px rgba(240,213,140,0.45)',
                         }}
                       >
-                        {weddingData.couple.brideInitial}
+                        {weddingData.couple.groomInitial}
                       </span>
                       <span
                         className="font-serif text-[20px] italic font-normal text-[#F0D58C]"
@@ -546,7 +546,7 @@ export default function Envelope({ stage, onOpenEnvelope }) {
                             '0 2px 4px rgba(0,0,0,0.75), 0 0 10px rgba(240,213,140,0.45)',
                         }}
                       >
-                        {weddingData.couple.groomInitial}
+                        {weddingData.couple.brideInitial}
                       </span>
                     </div>
 
